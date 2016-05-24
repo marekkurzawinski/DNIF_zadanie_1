@@ -1,0 +1,18 @@
+.name {
+ color: red;
+ font-weight: bold;
+ font-style: italic;
+ text-align: center;
+ font-size: 150%;
+}
+
+.phone {
+ text-align: right;
+ color: red;
+ font-size: 110%;
+ font-weight: bold;
+}
+
+.email {
+ color: lime;
+ font-family: "Verdana", Sans-serif;}

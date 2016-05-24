@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<input id="a">
+x^2+
+<input id="b">
+x+
+<input id="c">
+<button type="button" onclick="trojmian()">Submit</button>
+
+<p id="demo"></p>
+
+<script>
+function trojmian() {
+    var a, b, c, textOne, textTwo, foo, bar, delta;
+
+    a = document.getElementById("a").value;
+	b = document.getElementById("b").value;
+	c = document.getElementById("c").value;
+
+	delta = sqrt( Math.pow(b, 2) - 4 * a * c );
+	textOne = ( -b - delta ) / 2 * a;
+	textTwo = ( -b + delta ) / 2 * a;
+	
+    document.getElementById("demo").innerHTML = textOne;
+
+}
+</script>
+
+</body>
+</html> 

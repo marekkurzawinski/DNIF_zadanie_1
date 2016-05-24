@@ -1,0 +1,14 @@
+.author {
+ color: blue;
+ font-weight: bold;
+ text-align: center;
+ font-size: 150%;
+}
+
+.title {
+ color: teal;
+ text-align: center;
+ font-style: italic;
+ font-size: 110%;
+ font-weight: bold;
+}

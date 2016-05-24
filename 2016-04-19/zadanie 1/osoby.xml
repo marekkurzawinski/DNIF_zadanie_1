@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+
+<database>
+
+<person>
+	<name>Marek Kurzawiński</name>
+	<birth_date>September 13, 1995</birth_date>
+	<sex>M</sex>
+	<height>1.85</height>
+	<email>markur9@st.amu.edu.pl</email>
+	<phone type="Dom">061 825 15 36</phone>
+	<phone type="Kom">12 345 678 90</phone>
+</person>
+
+<person>
+	<name>Czesława Gorska</name>
+	<birth_date>July 6, 1949</birth_date>
+	<sex>K</sex>
+	<height>1.62</height>
+	<email>CzeslawaGorska@inbound.plus</email>
+	<phone type="Dom">69 117 34 33</phone>
+</person>
+
+<person>
+	<name>Bogusław Zawadzki</name>
+	<birth_date>December 10, 1980</birth_date>
+	<sex>M</sex>
+	<height>1.78</height>
+	<email>BoguslawZawadzki@inbound.plus</email>
+	<phone type="Dom">60 894 07 35</phone>
+</person>
+
+<person>
+	<name>Fryderyka Zajšc</name>
+	<birth_date>February 20, 1993</birth_date>
+	<sex>K</sex>
+	<height>1.65</height>
+	<email>FryderykaZajac@inbound.plus</email>
+	<phone type="Kom">78 591 21 40</phone>
+</person>
+
+<person>
+	<name>Tekla Tomaszewska</name>
+	<birth_date>March 1, 1944</birth_date>
+	<sex>K</sex>
+	<height>1.67</height>
+	<email>TeklaTomaszewska@inbound.plus</email>
+	<phone type="Dom">69 125 33 31</phone>
+</person>
+
+<person>
+	<name>Radosława Kowalczyk</name>
+	<birth_date>July 10, 1973</birth_date>
+	<sex>K</sex>
+	<height>1.70</height>
+	<email>RadoslawaKowalczyk@inbound.plus</email>
+	<phone type="Kom">67 227 99 99</phone>
+</person>
+
+<person>
+	<name>Teodozja Dudek</name>
+	<birth_date>September 26, 1942</birth_date>
+	<sex>K</sex>
+	<height>1.64</height>
+	<email>TeodozjaDudek@inbound.plus</email>
+	<phone type="Kom">53 458 45 88</phone>
+</person>
+
+<person>
+	<name>Lucjan Kamiński</name>
+	<birth_date>May 30, 1990</birth_date>
+	<sex>M</sex>
+	<height>1.78</height>
+	<email>LucjanKaminski@inbound.plus</email>
+	<phone type="Kom">72 103 73 73</phone>
+</person>
+
+</database>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+
+<database>
+
+	<album>
+		<author>Metallica</author>
+		<title>Kill 'Em All</title>
+		<release_date>July 25, 1983</release_date>
+		<record_date>May 10-27, 1983</record_date>
+		<studio_name>Music America Studios</studio_name>
+		<genre>Thrash metal</genre>
+		<length>51:15</length>
+		<label>Megaforce</label>
+		<producer>Paul Curcio</producer>
+	</album>
+	
+	<album>
+		<author>Metallica</author>
+		<title>Ride the Lightning</title>
+		<release_date>July 27, 1984</release_date>
+		<record_date>February 20 - March 14, 1984</record_date>
+		<studio_name>Sweet Silence Studios</studio_name>
+		<genre>Thrash metal</genre>
+		<length>47:23</length>
+		<label>Megaforce</label>
+		<producer>Metallica, Flemming Rasmussen</producer>
+	</album>
+		
+	<album>
+		<author>Metallica</author>
+		<title>Master of Puppets</title>
+		<release_date>March 3, 1986</release_date>
+		<record_date>September 1-December 27, 1985</record_date>
+		<studio_name>Sweet Silence Studios</studio_name>
+		<genre>Thrash metal</genre>
+		<length>54:46</length>
+		<label>Elektra</label>
+		<producer>Metallica, Flemming Rasmussen</producer>
+	</album>
+	
+	<album>
+		<author>Metallica</author>
+		<title>...And Justice for All</title>
+		<release_date>August 25, 1988</release_date>
+		<record_date>January 28 - May 1, 1988</record_date>
+		<studio_name>One on One Recording Studios</studio_name>
+		<genre>Thrash metal</genre>
+		<length>65:29</length>
+		<label>Elektra</label>
+		<producer>Metallica, Flemming Rasmussen</producer>
+	</album>
+	
+	<album>
+		<author>Iron Maiden</author>
+		<title>Seventh Son of a Seventh Son</title>
+		<release_date>11 April 1988</release_date>
+		<record_date>February - March 1988</record_date>
+		<studio_name>Musicland Studios</studio_name>
+		<genre>Heavy metal</genre>
+		<length>43:51</length>
+		<label>	EMI, Capitol</label>
+		<producer>Martin Birch</producer>
+	</album>
+	
+	<album>
+		<author>Iron Maiden</author>
+		<title>The Number of the Beast</title>
+		<release_date>22 March 1982</release_date>
+		<record_date>January - February 1982</record_date>
+		<studio_name>Battery Studios</studio_name>
+		<genre>Heavy metal</genre>
+		<length>39:11</length>
+		<label>EMI, Harvest</label>
+		<producer>Martin Birch</producer>
+	</album>
+	
+	<album>
+		<author>Iron Maiden</author>
+		<title>Fear of the Dark</title>
+		<release_date>11 May 1992</release_date>
+		<record_date>1991 - April 1992</record_date>
+		<studio_name>Barnyard Studios</studio_name>
+		<genre>Heavy metal</genre>
+		<length>57:58</length>
+		<label>EMI, Epic</label>
+		<producer>Martin Birch, Steve Harris</producer>
+	</album>
+	
+	<album>
+		<author>AC/DC</author>
+		<title>T.N.T.</title>
+		<release_date>1 December 1975</release_date>
+		<record_date>March-April, July 1975</record_date>
+		<studio_name>Albert Studios</studio_name>
+		<genre>Hard rock</genre>
+		<length>41:55</length>
+		<label>Albert</label>
+		<producer>Harry Vanda, George Young</producer>
+	</album>
+	
+	<album>
+		<author>AC/DC</author>
+		<title>High Voltage</title>
+		<release_date>17 February 1975</release_date>
+		<record_date>November 1974</record_date>
+		<studio_name>Albert Studios</studio_name>
+		<genre>Hard rock</genre>
+		<length>39:51</length>
+		<label>Albert Productions</label>
+		<producer>Harry Vanda, George Young</producer>
+	</album>
+	
+	<album>
+		<author>AC/DC</author>
+		<title>Highway to Hell</title>
+		<release_date>27 July 1979</release_date>
+		<record_date>December 1978, February 1979, March-April 1979</record_date>
+		<studio_name>Albert Studios, Criteria Studios, Roundhouse Studios</studio_name>
+		<genre>Hard rock</genre>
+		<length>41:42</length>
+		<label>Albert, Atlantic</label>
+		<producer>Robert John "Mutt" Lange</producer>
+	</album>
+	
+	<album>
+		<author>Black Sabbath</author>
+		<title>Black Sabbath</title>
+		<release_date>13 February 1970</release_date>
+		<record_date>16 October 1969</record_date>
+		<studio_name>Regent Sound</studio_name>
+		<genre>Heavy metal</genre>
+		<length>38:12</length>
+		<label>Vertigo</label>
+		<producer>Rodger Bain</producer>
+	</album>
+	
+	<album>
+		<author>Black Sabbath</author>
+		<title>Paranoid</title>
+		<release_date>18 September 1970</release_date>
+		<record_date>16-21 June 1970</record_date>
+		<studio_name>Regent Sound Studios</studio_name>
+		<genre>Heavy metal</genre>
+		<length>42:07</length>
+		<label>Vertigo</label>
+		<producer>Rodger Bain</producer>
+	</album>
+	
+	<album>
+		<author>Dio</author>
+		<title>Holy Diver</title>
+		<release_date>May 25, 1983</release_date>
+		<record_date>1983</record_date>
+		<studio_name>Sound City Studios</studio_name>
+		<genre>Heavy metal</genre>
+		<length>41:36</length>
+		<label>Warner Bros, Vertigo, Mercury</label>
+		<producer>Ronnie James Dio</producer>
+	</album>
+	
+	<album>
+		<author>Dio</author>
+		<title>Magica</title>
+		<release_date>March 21, 2000</release_date>
+		<record_date>unknown</record_date>
+		<studio_name>Total Access Recording</studio_name>
+		<genre>Heavy metal</genre>
+		<length>72:02</length>
+		<label>Spitfire</label>
+		<producer>Ronnie James Dio</producer>
+	</album>
+	
+	<album>
+		<author>Gojira</author>
+		<title>From Mars to Sirius</title>
+		<release_date>27 September 2005</release_date>
+		<record_date>unknown</record_date>
+		<studio_name>Listenable Records</studio_name>
+		<genre>progressive death metal</genre>
+		<length>66:52</length>
+		<label>Listenable, Prosthetic</label>
+		<producer>unknown</producer>
+	</album>
+	
+</database>
